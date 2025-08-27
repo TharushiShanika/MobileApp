@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "96825894994",
+    "firebase_url": "https://medidonate-default-rtdb.firebaseio.com",
+    "project_id": "medidonate",
+    "storage_bucket": "medidonate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96825894994:android:0227648332dd79a308578b",
+        "android_client_info": {
+          "package_name": "com.example.mad_medicine_managment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96825894994-5aq435ivm898oqomukns51c5cf85v698.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfNE0SLt6jhsmSWwdN9Vn75oakn59PPrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96825894994-5aq435ivm898oqomukns51c5cf85v698.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
